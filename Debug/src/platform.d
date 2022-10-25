@@ -1,0 +1,25 @@
+src/platform.o src/platform.o: ../src/platform.c \
+ D:/xilinx_2020/vitis/buzzer/design_Buzzer_controller_wrapper/export/design_Buzzer_controller_wrapper/sw/design_Buzzer_controller_wrapper/domain_microblaze_0/bspinclude/include/xparameters.h \
+ D:/xilinx_2020/vitis/buzzer/design_Buzzer_controller_wrapper/export/design_Buzzer_controller_wrapper/sw/design_Buzzer_controller_wrapper/domain_microblaze_0/bspinclude/include/xil_cache.h \
+ D:/xilinx_2020/vitis/buzzer/design_Buzzer_controller_wrapper/export/design_Buzzer_controller_wrapper/sw/design_Buzzer_controller_wrapper/domain_microblaze_0/bspinclude/include/mb_interface.h \
+ D:/xilinx_2020/vitis/buzzer/design_Buzzer_controller_wrapper/export/design_Buzzer_controller_wrapper/sw/design_Buzzer_controller_wrapper/domain_microblaze_0/bspinclude/include/xil_types.h \
+ D:/xilinx_2020/vitis/buzzer/design_Buzzer_controller_wrapper/export/design_Buzzer_controller_wrapper/sw/design_Buzzer_controller_wrapper/domain_microblaze_0/bspinclude/include/xil_assert.h \
+ D:/xilinx_2020/vitis/buzzer/design_Buzzer_controller_wrapper/export/design_Buzzer_controller_wrapper/sw/design_Buzzer_controller_wrapper/domain_microblaze_0/bspinclude/include/xil_exception.h \
+ D:/xilinx_2020/vitis/buzzer/design_Buzzer_controller_wrapper/export/design_Buzzer_controller_wrapper/sw/design_Buzzer_controller_wrapper/domain_microblaze_0/bspinclude/include/xparameters.h \
+ ../src/platform_config.h
+
+D:/xilinx_2020/vitis/buzzer/design_Buzzer_controller_wrapper/export/design_Buzzer_controller_wrapper/sw/design_Buzzer_controller_wrapper/domain_microblaze_0/bspinclude/include/xparameters.h:
+
+D:/xilinx_2020/vitis/buzzer/design_Buzzer_controller_wrapper/export/design_Buzzer_controller_wrapper/sw/design_Buzzer_controller_wrapper/domain_microblaze_0/bspinclude/include/xil_cache.h:
+
+D:/xilinx_2020/vitis/buzzer/design_Buzzer_controller_wrapper/export/design_Buzzer_controller_wrapper/sw/design_Buzzer_controller_wrapper/domain_microblaze_0/bspinclude/include/mb_interface.h:
+
+D:/xilinx_2020/vitis/buzzer/design_Buzzer_controller_wrapper/export/design_Buzzer_controller_wrapper/sw/design_Buzzer_controller_wrapper/domain_microblaze_0/bspinclude/include/xil_types.h:
+
+D:/xilinx_2020/vitis/buzzer/design_Buzzer_controller_wrapper/export/design_Buzzer_controller_wrapper/sw/design_Buzzer_controller_wrapper/domain_microblaze_0/bspinclude/include/xil_assert.h:
+
+D:/xilinx_2020/vitis/buzzer/design_Buzzer_controller_wrapper/export/design_Buzzer_controller_wrapper/sw/design_Buzzer_controller_wrapper/domain_microblaze_0/bspinclude/include/xil_exception.h:
+
+D:/xilinx_2020/vitis/buzzer/design_Buzzer_controller_wrapper/export/design_Buzzer_controller_wrapper/sw/design_Buzzer_controller_wrapper/domain_microblaze_0/bspinclude/include/xparameters.h:
+
+../src/platform_config.h:

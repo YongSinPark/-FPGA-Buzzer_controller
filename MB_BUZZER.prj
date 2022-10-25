@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="MB_BUZZER" location="D:/xilinx_2020/vitis/buzzer/MB_BUZZER" platform="D:/xilinx_2020/vitis/buzzer/design_Buzzer_controller_wrapper/export/design_Buzzer_controller_wrapper/design_Buzzer_controller_wrapper.xpfm" platformUID="xilinx:basys3::0.0(custom)" systemProject="MB_BUZZER_system" sysConfig="design_Buzzer_controller_wrapper" runtime="cpp" cpu="domain_microblaze_0" cpuInstance="microblaze_0" os="standalone" mssSignature="3b665e0f45ffdf7e7cf5a96323497e3a">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.1021272130" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1184404550" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

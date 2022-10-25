@@ -1,0 +1,21 @@
+2022-10-21T16:26:27.008977600255-16:26:27 **** Incremental Build of configuration Debug for project MB_BUZZER ****
+000-make all 
+000-'Building file: ../src/main.c'
+000-'Invoking: MicroBlaze gcc compiler'
+000-mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -ID:/xilinx_2020/vitis/buzzer/design_Buzzer_controller_wrapper/export/design_Buzzer_controller_wrapper/sw/design_Buzzer_controller_wrapper/domain_microblaze_0/bspinclude/include -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+000-'Finished building: ../src/main.c'
+000-' '
+000-'Building target: MB_BUZZER.elf'
+000-'Invoking: MicroBlaze gcc linker'
+000-mb-gcc -Wl,-T -Wl,../src/lscript.ld -LD:/xilinx_2020/vitis/buzzer/design_Buzzer_controller_wrapper/export/design_Buzzer_controller_wrapper/sw/design_Buzzer_controller_wrapper/domain_microblaze_0/bsplib/lib -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "MB_BUZZER.elf"  ./src/hw/Button.o ./src/hw/Led.o  ./src/main.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+000-'Finished building target: MB_BUZZER.elf'
+000-' '
+000-'Invoking: MicroBlaze Print Size'
+000-mb-size MB_BUZZER.elf  |tee "MB_BUZZER.elf.size"
+000-   text	   data	    bss	    dec	    hex	filename
+000-  78468	   1752	   3372	  83592	  14688	MB_BUZZER.elf
+000-'Finished building: MB_BUZZER.elf.size'
+000-' '
+00255-
+16:26:30 Build Finished (took 3s.511ms)
+
